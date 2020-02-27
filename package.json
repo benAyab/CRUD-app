@@ -1,0 +1,23 @@
+{
+  "name": "crudapp",
+  "version": "1.0.0",
+  "description": "test backend with nodeJs and mongodb",
+  "main": "server.js",
+  "scripts": {
+    "start": "./node_modules/nodemon/bin/nodemon.js ./server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "\u001b[A\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[B\u001b[B"
+  ],
+  "author": "ayab ben",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mogoose": "0.0.1-security",
+    "mongoose": "^5.7.0",
+    "morgan": "^1.9.1",
+    "nodemon": "^1.19.2"
+  }
+}
